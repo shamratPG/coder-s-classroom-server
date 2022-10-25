@@ -1,0 +1,14 @@
+{
+  "name": "coders-classroom-server",
+  "version": "1.0.0",
+  "description": "This is some fake data server for coders classroom project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md. Shamrat Hossain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
