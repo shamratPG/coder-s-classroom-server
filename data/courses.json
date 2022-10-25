@@ -3,36 +3,36 @@
         "id": 1,
         "name": "Web Design",
         "description": "Thanks to a growing number of software programs, it seems as if anyone can make a webpage. But what if you actually want to understand how the page was created? There are great textbooks and online resources for learning web design, but most of those resources require some background knowledge. This course is designed to help the novice who wants to gain confidence and knowledge. We will explore the theory (what actually happens when you click on a link on a webpage?), the practical (what do I need to know to make my own page?), and the overlooked (I have a page, what do I do now?). Throughout the course there will be a strong emphasis on adhering to syntactic standards for validation and semantic standards to promote wide accessibility for users with disabilities.  The textbook we use is available online, “The Missing Link: An Introduction to Web Development and Programming” by Michael Mendez.",
-        "img": ""
+        "img": "https://github.com/shamratPG/images/blob/main/codersClassroom/webDesign.jpg?raw=true"
     },
     {
         "id": 2,
         "name": "Python for Beginners",
         "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.",
-        "img": ""
+        "img": "https://github.com/shamratPG/images/blob/main/codersClassroom/pythonTraning.jpg?raw=true"
     },
     {
         "id": 3,
         "name": "Coding for Everyone",
         "description": "This course is for everyone. In the new world we live in, coding is a universally valuable skill, whether you're a scientist, artist, or a humanist. Algorithms are everywhere, and we all have to understand how they work. The C language is particularly well suited as an introduction to coding: It's a tried-and-true language, and it allows you to understand computing processes at a deep level.No prior knowledge of coding is needed for this course. We'll start at the beginning.The time estimated time commitment for this course is five hours a week for five weeks.",
-        "img": ""
+        "img": "https://github.com/shamratPG/images/blob/main/codersClassroom/codingEvery.jpg?raw=true"
     },
     {
         "id": 4,
         "name": "Introduction to JavaScript",
         "description": "In this beginning-level course you will discover where JavaScript fits into the world of web development. Through hands-on exercises, you will use the Notepad++ text editor to embed JavaScript code to an existing HTML document. As you code a simple JavaScript program to provide user interaction you will learn to recognize and apply syntax rules and coding standards associated with JavaScript. The final activity in the course has you moving your JavaScript code into an external file so that you can compare inline and external JavaScript.",
-        "img": ""
+        "img": "https://github.com/shamratPG/images/blob/main/codersClassroom/javaScript.jpg?raw=true"
     },
     {
         "id": 5,
         "name": "Introduction to Back-End Development",
         "description": "Welcome to Introduction to Back-End Development, the first course in the Meta Back-End Developer program.   This course is a good place to start if you want to become a web developer. You will learn about the day-to-day responsibilities of a web developer and get a general understanding of the core and underlying technologies that power the internet. You will learn how front-end developers create websites and applications that work well and are easy to maintain. You'll be introduced to the core web development technologies like HTML and CSS and get opportunities to practice using them. You will also be introduced to modern UI frameworks such as Bootstrap and React that make it easy to create interactive user experiences.characteristics of the most popular UI frameworks For the final project in this course, you will create and edit a webpage using HTML and the Bootstrap CSS framework. Using a responsive layout grid, you will construct a responsive webpage containing text and images that looks great on any size screen.  This is a beginner course intended for learners eager to learn the fundamentals of web development. To succeed in this course, you do not need prior web development experience, only basic internet navigation skills and an eagerness to get started with coding.",
-        "img": ""
+        "img": "https://github.com/shamratPG/images/blob/main/codersClassroom/backEnd.jpg?raw=true"
     },
     {
         "id": 6,
         "name": "Programming with Scratch",
         "description": "Learning coding is not only about understanding the programming language being used, but also developing important computational thinking skills, which are useful for problem solving across many disciplinary areas. In this course, students will learn basic programming skills by creating interactive storybooks, animations, and games with Scratch, which is a block-based visual programming language for anyone new to coding.",
-        "img": ""
+        "img": "https://github.com/shamratPG/images/blob/main/codersClassroom/scretch.jpg?raw=true"
     }
 ]
