@@ -4,6 +4,7 @@
   "description": "This is some fake data server for coders classroom project",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Md. Shamrat Hossain",
